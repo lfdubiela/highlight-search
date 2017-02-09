@@ -6,7 +6,8 @@ requirements?
  - jQuery Highlight Regex Plugin v0.1.2
  
 example:
-  <html>
+```
+ <html>
     <header>
       <link rel="stylesheet" href="/path/to/css/highlight-text-match.css">
     </header>
@@ -22,10 +23,11 @@ example:
         <script src="/path/to/jquery/highlight-text-match.js"></script>        
     </footer>
   </html>
+  ```
   
   attributes you can use to implement a better version:
-    - input input-highlight-text 
-    - content to search content-highlight-text
-    - button next if needed next-highlight-text
-    - button prior/previous if needed prior-highlight-text
+    * input input-highlight-text 
+    * content to search content-highlight-text
+    * button next if needed next-highlight-text
+    * button prior/previous if needed prior-highlight-text
   
