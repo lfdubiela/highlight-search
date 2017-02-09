@@ -1,11 +1,11 @@
 # highlight-search
 JavaScript- find text within a page and jump to location in page
 
-requirements?
+## requirements?
  - jquery 1.2 or superior.
  - jQuery Highlight Regex Plugin v0.1.2
  
-example:
+## example:
 ```
  <html>
     <header>
@@ -25,9 +25,9 @@ example:
   </html>
   ```
   
-  attributes you can use to implement a better version:
-    ...input input-highlight-text 
-    ...content to search content-highlight-text
-    ...button next if needed next-highlight-text
-    ...button prior/previous if needed prior-highlight-text
+  ## attributes you can use to implement a better version:
+    ... input input-highlight-text 
+    ... content to search content-highlight-text
+    ... button next if needed next-highlight-text
+    ... button prior/previous if needed prior-highlight-text
   
